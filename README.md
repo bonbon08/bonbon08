@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bonbon</h1>
-<h3 align="center">A hobby developer</h3>
+<h3 align="center">A developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonbon08&label=Profile%20views&color=0e75b6&style=flat" alt="bonbon08" /> </p>
 
